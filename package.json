@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-chat-ui",
+  "version": "1.0.0",
+  "description": "components to make a chat ui",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "bootstrap": "^4.1.3",
+    "react": ">=16.3.0",
+    "react-dom": ">=16.3.0",
+    "prop-types": "^15.7.2"
+  },
+  "keywords": [
+    "bootstrap chat ui",
+    "bootstrap chat",
+    "react chat",
+    "chat ui",
+    "chat"
+  ],
+  "author": "Blaise Iradukunda",
+  "license": "ISC"
+}
