@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-chat-ui",
+  "name": "react-bootstrap-chat-ui",
   "version": "1.0.0",
-  "description": "components to make a chat ui",
+  "description": "component to make a chat ui using react and bootstrap classes",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -22,6 +22,14 @@
     "chat ui",
     "chat"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blezzoh/react-bootstrap-chat-ui.git"
+  },
   "author": "Blaise Iradukunda",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blezzoh/react-bootstrap-chat-ui/issues"
+  },
+  "homepage": "https://github.com/Blezzoh/react-bootstrap-chat-ui#readme"
 }
